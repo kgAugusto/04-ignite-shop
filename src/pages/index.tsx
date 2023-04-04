@@ -11,7 +11,8 @@ export default function Home() {
   return (
     <>
       <Button>
-        <span></span>{" "}
+        <span></span>
+        {" teste"}
       </Button>
     </>
   );
